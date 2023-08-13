@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[My Blog Site](https://oynix.github.io)
+[My Blog Site](https://oynix.net)
